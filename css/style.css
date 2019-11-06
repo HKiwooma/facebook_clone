@@ -225,7 +225,6 @@ input [type="text"] {
 footer {
   color: #737373;
   margin: 0 auto;
-  /*width: 980px; */
   background-color: #fff;
   min-height: 100px;
 }
@@ -251,7 +250,7 @@ footer {
 }
 
 .copyright {
-  margin-top: 1vh !important;
+  margin-top: 0.75vh !important;
   font-size: 10px !important;
   margin-bottom: 1.70rem !important;
 }
