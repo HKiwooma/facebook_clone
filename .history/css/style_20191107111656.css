@@ -1,5 +1,10 @@
 html, body {
   margin: 0%;
+  background-color: #edf0f5;
+  widows: 720px;;
+  height: 1024px;
+  "
+
 }
 
 .header {
@@ -9,7 +14,7 @@ html, body {
   border-bottom: 1px solid #133783;
 }
 
-body .header a {
+.header a {
   color: #fff;
 }
 

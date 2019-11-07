@@ -1,5 +1,8 @@
 html, body {
   margin: 0%;
+  background-color: #edf0f5;
+  widows: 640px;
+  height: 720px;
 }
 
 .header {
