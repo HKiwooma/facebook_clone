@@ -5,5 +5,5 @@ starter project for facebook page clone
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e110531c-ace8-4e8b-828c-3f6f86bf9f1a/deploy-status)](https://app.netlify.com/sites/haruna-facebook-clone/deploys)
 
 # Link
-_haruna-facebook-clone.netlify.com_
+This is my clone facebook page: [facebook](haruna-facebook-clone.netlify.com)
 
